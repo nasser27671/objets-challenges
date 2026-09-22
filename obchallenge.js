@@ -3,4 +3,4 @@ const rectangle = {
     largeur: 15,
 }
 const aire = rectangle.longeur * rectangle.largeur
-console.log(aire)
+console.log("l'aire de votre rectangle est: " + aire)
